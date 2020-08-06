@@ -1,4 +1,4 @@
-include ':alipaylib'
+//include ':alipaylib'
 include ':alipaySdk'//include ':tobaisandroid'
 include ':app'
 rootProject.name = "TobaisAndroidDelegate"
